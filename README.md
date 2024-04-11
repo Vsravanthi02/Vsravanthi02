@@ -13,7 +13,7 @@ I would love to train models and make predictions **📈 #MachineLearning**
 
 EMAIL: venkatasravanthiaddagada@gmail.com
 
-LINKEDIN: https://www.linkedin.com/in/venkata-sravanthi-683557270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+LINKEDIN: https://www.linkedin.com/in/venkata-sravanthi-683557270
 
 
 
